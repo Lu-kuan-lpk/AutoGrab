@@ -10,4 +10,5 @@
    1. ![taobao.py](./img.png)
 5. 安装对应的chrome版本的驱动到移动到项目的根目录，并将文件名改成 `chromedriver_windows.exe`
 * 目前支持windows电脑
+* [驱动安装地址](http://chromedriver.storage.googleapis.com/index.html)
 6. 运行即可
